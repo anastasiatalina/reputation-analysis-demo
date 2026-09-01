@@ -1,0 +1,19 @@
+Copy these into a local `.env` file (do not commit it) or export as environment variables.
+
+# Financial Modeling Prep
+FMP_API_KEY=your_fmp_key_here
+
+# NewsAPI (multiple keys supported; comma-separated)
+NEWSAPI_KEYS=key1,key2,key3
+
+# Benzinga
+BENZINGA_TOKEN=your_benzinga_token_here
+
+# Reddit (PRAW)
+REDDIT_CLIENT_ID=your_client_id_here
+REDDIT_CLIENT_SECRET=your_client_secret_here
+REDDIT_USER_AGENT=ReputationAnalysisApp/1.0 by you
+
+# Optional: model override (defaults to current model in app/sentiment/tone_analysis.py)
+SENTIMENT_MODEL=distilbert/distilbert-base-uncased-finetuned-sst-2-english
+
