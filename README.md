@@ -22,7 +22,7 @@ something to show without any API keys.
 - Provides a Flet UI (`python -m app.ui`) and a CLI (`python -m app ...`).
 - Builds a weekly ARIMA forecast (`app/forecasting/forecast.py`) and saves the plot in `assets/`.
 
-[Pipeline map](./pipeline-map.html)
+[Pipeline map](./pipeline-map.png)
 
 ## Setup
 
