@@ -1,0 +1,325 @@
+date,news,description,url,score,type
+2024-01-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.17882922009935667,twit
+2024-01-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.2952609557247885,news
+2024-01-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.19320953966542526,twit
+2024-01-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5363972444971611,analytical note
+2024-01-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2454216814730335,news
+2024-02-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2278796633410467,news
+2024-02-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.08460066044934027,twit
+2024-02-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.21261976703070457,news_fm
+2024-02-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.10152333375446886,news_fm
+2024-02-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.38767617450706215,news
+2024-02-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.10567188790232013,twit
+2024-02-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.08909321354437955,news_fm
+2024-02-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.15476326960834824,analytical note
+2024-02-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.008516400687999527,news_fm
+2024-02-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.677566591349008,twit
+2024-02-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.268710120343518,news_fm
+2024-02-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.2523192272765533,news_fm
+2024-02-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.17905884825621932,news_fm
+2024-03-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.361551219646748,twit
+2024-03-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.009655288240644069,news
+2024-03-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.14557147829296485,news_fm
+2024-03-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.1853800212259869,news
+2024-03-10T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.05194617371367812,analytical note
+2024-03-10T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.18936600965664563,news
+2024-03-10T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.37636692619705475,twit
+2024-03-17T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.6110672120639462,analytical note
+2024-03-17T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.15578410637793114,news_fm
+2024-03-24T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.7233476822338308,twit
+2024-03-24T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.2818641371203005,news_fm
+2024-03-31T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.06706757451337923,analytical note
+2024-03-31T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2124195982971396,news
+2024-03-31T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.3610841696225356,twit
+2024-03-31T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2035586684185987,news_fm
+2024-04-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.12240724780125824,news_fm
+2024-04-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.9812541392313154,news_fm
+2024-04-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.20697593148745763,news
+2024-04-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.1473582808804365,analytical note
+2024-04-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.16695715027876906,analytical note
+2024-04-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.08108421757807381,analytical note
+2024-04-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5541590604696393,news_fm
+2024-04-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.39648492896772214,news_fm
+2024-04-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.8736601549756956,twit
+2024-04-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.12749352606478437,twit
+2024-04-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.017869803271405853,news_fm
+2024-04-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.8076594566658847,twit
+2024-04-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.0784439542525578,news_fm
+2024-05-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.16470352411460243,news_fm
+2024-05-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.2673711706630821,news_fm
+2024-05-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.16118879090303162,analytical note
+2024-05-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.42971951883516574,news
+2024-05-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.5207077827004398,analytical note
+2024-05-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.15997468026034012,twit
+2024-05-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2173732188010737,analytical note
+2024-05-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.43729306997686557,analytical note
+2024-05-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.1877023590934602,twit
+2024-05-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3839142841428748,news_fm
+2024-05-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.012532592358237461,news
+2024-05-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.01820987898944444,news_fm
+2024-05-26T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5986306322423685,twit
+2024-05-26T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.08254791719446794,news
+2024-05-26T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.42493253207605397,twit
+2024-05-26T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.09681773323723353,news
+2024-06-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.014414054373496764,news_fm
+2024-06-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.24089845888536324,analytical note
+2024-06-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.25532630962991193,analytical note
+2024-06-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.59974308107323,news_fm
+2024-06-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.17455729546262747,news_fm
+2024-06-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.06647501718189014,news_fm
+2024-06-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5918558423680401,analytical note
+2024-06-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.4454030664467404,analytical note
+2024-06-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.48823672754109043,analytical note
+2024-06-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.0032462394461421754,twit
+2024-06-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.7353179636908518,news
+2024-06-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.015025977669565455,twit
+2024-06-23T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.4133511875571247,news_fm
+2024-06-23T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.5358165289763616,news_fm
+2024-06-30T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.03940530779067925,analytical note
+2024-06-30T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.15328274343786252,twit
+2024-07-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.06982358654241715,analytical note
+2024-07-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.17837394176107968,news_fm
+2024-07-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.349185573254609,twit
+2024-07-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.3815756097873617,analytical note
+2024-07-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5216063222907021,twit
+2024-07-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.28715707195891704,twit
+2024-07-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.18852952984005483,news
+2024-07-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.19445175402086382,news
+2024-07-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.03707799227855717,news
+2024-07-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2910342232129082,news
+2024-07-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.19451394294130547,news_fm
+2024-08-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.019196206322767657,twit
+2024-08-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.08433872275712291,twit
+2024-08-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.025915476833059444,news_fm
+2024-08-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.21526481999442557,news_fm
+2024-08-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.23856946548312016,news
+2024-08-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.32556382854446936,news_fm
+2024-08-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.560298219762875,analytical note
+2024-08-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.6547363593242865,twit
+2024-08-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.37096509329803296,news_fm
+2024-08-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.022068631299606185,news
+2024-08-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.44657249660570963,twit
+2024-08-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.18572972342908656,twit
+2024-08-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.5399155456288993,news
+2024-08-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.004877810389323587,news_fm
+2024-08-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.39938759621182707,news
+2024-08-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.22102966351819375,twit
+2024-09-01T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.025443454140170085,news
+2024-09-01T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.278128510392125,news
+2024-09-01T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.6552853604774974,analytical note
+2024-09-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.15694816237508738,analytical note
+2024-09-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.08923865113345089,analytical note
+2024-09-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.27293469080165,twit
+2024-09-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.00730617408192695,news_fm
+2024-09-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.16988704951153724,twit
+2024-09-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.21651219484747247,news_fm
+2024-09-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.25320325615860345,analytical note
+2024-09-22T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3591235491724202,twit
+2024-09-22T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.12077965702891345,twit
+2024-09-22T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.5243945238649013,news_fm
+2024-09-29T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.15375939301492464,twit
+2024-09-29T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.13547427703032833,twit
+2024-09-29T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.3271302276628782,news
+2024-10-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.28370273922444234,news
+2024-10-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5131754863566631,news
+2024-10-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.4053123172563784,news
+2024-10-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.08130177051974351,analytical note
+2024-10-13T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.32947840675268825,news_fm
+2024-10-13T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3018727601930714,twit
+2024-10-13T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.1349213536211359,news
+2024-10-20T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.18362736668580448,analytical note
+2024-10-20T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.32961425480683265,news
+2024-10-20T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.1320856549469503,twit
+2024-10-27T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.041543690495990146,twit
+2024-10-27T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.4999936335306672,twit
+2024-10-27T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.1517403643046089,analytical note
+2024-10-27T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.09286005944435854,twit
+2024-11-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.36943684597377385,analytical note
+2024-11-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.033621728571149395,twit
+2024-11-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.44804096160144835,twit
+2024-11-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.33616690929440274,news
+2024-11-10T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.30492686487282133,twit
+2024-11-10T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.03291911457900477,twit
+2024-11-10T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.21936473335451548,analytical note
+2024-11-17T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.38744211016084046,news
+2024-11-17T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.35262380575862257,analytical note
+2024-11-17T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3986287763111751,analytical note
+2024-11-17T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.3290625658495262,twit
+2024-11-24T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.21098047036303022,news
+2024-11-24T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.13672790795062703,analytical note
+2024-11-24T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.4141484929694008,news_fm
+2024-12-01T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.06259740964120297,news_fm
+2024-12-01T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.6202244972086289,twit
+2024-12-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3591853949974721,analytical note
+2024-12-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5068893425408779,news
+2024-12-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.34372201655907914,analytical note
+2024-12-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.028078192374920194,analytical note
+2024-12-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.1291536095676787,news
+2024-12-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.698611372420928,twit
+2024-12-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.07803899655649568,news
+2024-12-22T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.015865775869651298,news
+2024-12-22T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.17027845766577662,news_fm
+2024-12-22T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.06147609794138243,news_fm
+2024-12-22T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.08713267542997485,news
+2024-12-29T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2922353590529893,news_fm
+2024-12-29T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.4977030861270338,news
+2024-12-29T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.16711825782767276,twit
+2025-01-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.22680088049837685,twit
+2025-01-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.004515737387889128,twit
+2025-01-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.14528192525572028,news_fm
+2025-01-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.347093927114938,news
+2025-01-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.45179978796811066,news
+2025-01-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3878789215501952,news
+2025-01-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.00016467857509770305,twit
+2025-01-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.15854544369814605,news
+2025-01-26T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5403315794988068,analytical note
+2025-01-26T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.2889139173923661,news_fm
+2025-02-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.023409092983732126,news
+2025-02-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5500153157916227,analytical note
+2025-02-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.09080955816999792,twit
+2025-02-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.20769431449093406,news
+2025-02-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3110418727309073,news_fm
+2025-02-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.17107078485673743,analytical note
+2025-02-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.09907941725256146,news
+2025-02-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.10009208940966852,news_fm
+2025-02-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.012012130090158732,news
+2025-02-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.7423245992772133,analytical note
+2025-02-23T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.4972452486510051,analytical note
+2025-02-23T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.19523309173227674,news_fm
+2025-02-23T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.17424072821890746,twit
+2025-03-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.09759403143507017,twit
+2025-03-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.12583577416508193,analytical note
+2025-03-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.14990273754134406,analytical note
+2025-03-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.4837524098681501,news_fm
+2025-03-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.08069394923544965,twit
+2025-03-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.0312239429385685,news
+2025-03-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.36449051777264385,news_fm
+2025-03-23T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.11405149191357579,analytical note
+2025-03-23T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.8356090157434629,news_fm
+2025-03-30T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.9753153163816177,analytical note
+2025-03-30T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.05377316382219862,news_fm
+2025-03-30T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3711391751352817,analytical note
+2025-03-30T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.09381235324389055,analytical note
+2025-04-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.3749832310525547,news_fm
+2025-04-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.12304658947969516,news
+2025-04-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.33652842668186544,news
+2025-04-13T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.35258779043955446,news_fm
+2025-04-13T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.24191288964822644,analytical note
+2025-04-13T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.13537220486096777,news_fm
+2025-04-20T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3914858777349451,twit
+2025-04-20T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.24905855292441245,news
+2025-04-20T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.3644322174469745,news_fm
+2025-04-27T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.00048549292879405075,news_fm
+2025-04-27T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.10290657057026728,news
+2025-05-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.1565505946190479,news
+2025-05-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.24406329101776836,analytical note
+2025-05-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.03541562428428708,news_fm
+2025-05-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.10265293852961868,twit
+2025-05-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5269759833666957,analytical note
+2025-05-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.08674288985314134,news
+2025-05-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.39332818644026224,news_fm
+2025-05-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.04175763644993164,twit
+2025-05-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.0014903103392987652,news
+2025-05-18T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.17631922086353238,analytical note
+2025-05-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2521671472140272,news
+2025-05-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5228546579453649,news_fm
+2025-05-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3447005979964768,analytical note
+2025-05-25T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.7165602987714051,analytical note
+2025-06-01T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.4476816532679206,news_fm
+2025-06-01T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5408366860030639,twit
+2025-06-01T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.22663231830866257,analytical note
+2025-06-01T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.17565035548317132,twit
+2025-06-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.6722355883712877,news
+2025-06-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.475490464048738,news
+2025-06-08T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.533074824925428,twit
+2025-06-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3410289805905177,twit
+2025-06-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.13236279639936815,analytical note
+2025-06-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.051142639374328676,news
+2025-06-15T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.2945911562698383,news_fm
+2025-06-22T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.19218777126170056,news
+2025-06-22T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.4521245466487902,twit
+2025-06-29T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5684739527952793,twit
+2025-06-29T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.08888827581324354,twit
+2025-07-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.07452339904409727,twit
+2025-07-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.18994491817689735,news_fm
+2025-07-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.796329487168205,twit
+2025-07-06T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.6261459581835515,news
+2025-07-13T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.2842916925699258,twit
+2025-07-13T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.4342785602926661,news
+2025-07-13T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.1973424449376891,analytical note
+2025-07-20T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.36814268878936374,analytical note
+2025-07-20T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.08932899524824948,twit
+2025-07-27T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.34781311986327895,analytical note
+2025-07-27T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.885586509716132,twit
+2025-07-27T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.10552988608558705,news
+2025-08-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.009887850396042277,news
+2025-08-03T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.20395486464564627,news_fm
+2025-08-10T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5536566707032504,analytical note
+2025-08-10T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.32806432436420185,analytical note
+2025-08-10T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.6072329162009458,news_fm
+2025-08-17T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.12975832095323134,analytical note
+2025-08-17T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.06086489687139806,news
+2025-08-24T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.11134292359120232,news_fm
+2025-08-24T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.0006199029010359462,news_fm
+2025-08-24T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.1828022654581321,twit
+2025-08-31T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.12983218380024003,twit
+2025-08-31T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.25367920872915234,twit
+2025-08-31T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.19458810005140884,twit
+2025-09-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2506199702484989,news_fm
+2025-09-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.005712093147708555,news_fm
+2025-09-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.26886284988382386,twit
+2025-09-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.1529714473268086,analytical note
+2025-09-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.16914950428558748,news_fm
+2025-09-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.718799797322263,analytical note
+2025-09-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.446674157998126,analytical note
+2025-09-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.6051566219169741,news_fm
+2025-09-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.5505346099294588,news
+2025-09-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.35014581817746165,analytical note
+2025-09-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.04166799736484586,news
+2025-09-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.14415079121274668,twit
+2025-09-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.6912765075680993,news
+2025-09-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3033738849869882,analytical note
+2025-10-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.499215604508593,twit
+2025-10-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.2868809311159628,news
+2025-10-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.541799383859424,news
+2025-10-05T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.011036107044672956,twit
+2025-10-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.289203973725939,twit
+2025-10-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.41074665126170173,news_fm
+2025-10-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.48862379691328645,twit
+2025-10-12T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.08747003092640251,twit
+2025-10-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.03506989823574622,news_fm
+2025-10-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.25640894827105226,news
+2025-10-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.04354724085893489,news_fm
+2025-10-19T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.18864990347093902,news
+2025-10-26T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.20708125212260664,news_fm
+2025-10-26T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.15840065612229,news_fm
+2025-10-26T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.39810103006477543,news_fm
+2025-11-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.4356525454536206,news_fm
+2025-11-02T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.4029224103165071,analytical note
+2025-11-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.09450637081696063,analytical note
+2025-11-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.2584628806905258,news_fm
+2025-11-09T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.28045899976494637,news_fm
+2025-11-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.25415953960832327,analytical note
+2025-11-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.0446203785898531,analytical note
+2025-11-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.6369603492463457,twit
+2025-11-16T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.06759668092338682,analytical note
+2025-11-23T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.21023282293274473,twit
+2025-11-23T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.1276557191544236,news
+2025-11-30T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.22261263689116328,analytical note
+2025-11-30T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.37815803885701077,twit
+2025-12-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.3371856825903283,news_fm
+2025-12-07T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.03229070143465397,analytical note
+2025-12-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.6381654715417261,twit
+2025-12-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.0639215957929728,twit
+2025-12-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.6457831509307709,analytical note
+2025-12-14T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.3344216401910518,twit
+2025-12-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.07820252259851558,analytical note
+2025-12-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.7189416471743106,news
+2025-12-21T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.11150150516825781,news_fm
+2025-12-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.16480415917573477,news_fm
+2025-12-28T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.5738241439494147,twit
+2026-01-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,-0.10976372936763547,twit
+2026-01-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.2639622519293732,analytical note
+2026-01-04T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.026220884183403338,news_fm
+2026-01-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.33491797588514766,news
+2026-01-11T21:43:07Z,Apple historical event,Mock historical event used for forecasting.,https://example.com/history,0.20120900250015294,analytical note

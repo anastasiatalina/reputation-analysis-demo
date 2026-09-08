@@ -1,0 +1,271 @@
+date,news,description,url,score,type
+2026-01-17 21:43:07+00:00,Apple mock event 1-1,Mock description for Apple event 1.,https://example.com/apple/0/0,0.07841883847663533,news_fm
+2026-01-17 21:43:07+00:00,Apple mock event 1-2,Mock description for Apple event 2.,https://example.com/apple/0/1,-0.19634319699548985,twit
+2026-01-17 16:43:07+00:00,Apple mock event 1-3,Mock description for Apple event 3.,https://example.com/apple/0/2,0.02401561847219543,news_fm
+2026-01-16 16:43:07+00:00,Apple mock event 2-2,Mock description for Apple event 2.,https://example.com/apple/1/1,-0.007353091580120879,analytical note
+2026-01-16 12:43:07+00:00,Apple mock event 2-3,Mock description for Apple event 3.,https://example.com/apple/1/2,0.5514569013210308,news
+2026-01-16 07:43:07+00:00,Apple mock event 2-1,Mock description for Apple event 1.,https://example.com/apple/1/0,0.23532334914102884,news
+2026-01-15 11:43:07+00:00,Apple mock event 3-1,Mock description for Apple event 1.,https://example.com/apple/2/0,-0.5083093549816846,news_fm
+2026-01-15 11:43:07+00:00,Apple mock event 3-2,Mock description for Apple event 2.,https://example.com/apple/2/1,1.0,news_fm
+2026-01-15 10:43:07+00:00,Apple mock event 3-3,Mock description for Apple event 3.,https://example.com/apple/2/2,-0.5611506751555125,analytical note
+2026-01-14 21:43:07+00:00,Apple mock event 4-2,Mock description for Apple event 2.,https://example.com/apple/3/1,0.7229569034886372,news_fm
+2026-01-14 12:43:07+00:00,Apple mock event 4-1,Mock description for Apple event 1.,https://example.com/apple/3/0,-0.4417442790271664,analytical note
+2026-01-14 08:43:07+00:00,Apple mock event 4-3,Mock description for Apple event 3.,https://example.com/apple/3/2,-0.49946061218404486,news_fm
+2026-01-13 13:43:07+00:00,Apple mock event 5-1,Mock description for Apple event 1.,https://example.com/apple/4/0,0.12243177032099646,news
+2026-01-13 12:43:07+00:00,Apple mock event 5-3,Mock description for Apple event 3.,https://example.com/apple/4/2,0.03169107697669098,news
+2026-01-13 05:43:07+00:00,Apple mock event 5-2,Mock description for Apple event 2.,https://example.com/apple/4/1,-0.5718102535297154,news
+2026-01-12 20:43:07+00:00,Apple mock event 6-2,Mock description for Apple event 2.,https://example.com/apple/5/1,1.0,news
+2026-01-12 17:43:07+00:00,Apple mock event 6-3,Mock description for Apple event 3.,https://example.com/apple/5/2,-0.4264488410966638,news
+2026-01-12 09:43:07+00:00,Apple mock event 6-1,Mock description for Apple event 1.,https://example.com/apple/5/0,0.22944627620776797,news_fm
+2026-01-11 08:43:07+00:00,Apple mock event 7-2,Mock description for Apple event 2.,https://example.com/apple/6/1,-0.48822720529490377,analytical note
+2026-01-11 07:43:07+00:00,Apple mock event 7-1,Mock description for Apple event 1.,https://example.com/apple/6/0,0.37965252426085777,news
+2026-01-11 06:43:07+00:00,Apple mock event 7-3,Mock description for Apple event 3.,https://example.com/apple/6/2,0.2969199990209985,twit
+2026-01-10 19:43:07+00:00,Apple mock event 8-1,Mock description for Apple event 1.,https://example.com/apple/7/0,-0.06843384560937851,twit
+2026-01-10 08:43:07+00:00,Apple mock event 8-3,Mock description for Apple event 3.,https://example.com/apple/7/2,0.813109954045643,twit
+2026-01-10 06:43:07+00:00,Apple mock event 8-2,Mock description for Apple event 2.,https://example.com/apple/7/1,0.37897970865816455,twit
+2026-01-09 15:43:07+00:00,Apple mock event 9-1,Mock description for Apple event 1.,https://example.com/apple/8/0,-0.30755795039477335,twit
+2026-01-09 03:43:07+00:00,Apple mock event 9-2,Mock description for Apple event 2.,https://example.com/apple/8/1,0.034784168510305226,news
+2026-01-09 02:43:07+00:00,Apple mock event 9-3,Mock description for Apple event 3.,https://example.com/apple/8/2,-0.26611737199233976,twit
+2026-01-08 20:43:07+00:00,Apple mock event 10-3,Mock description for Apple event 3.,https://example.com/apple/9/2,0.21873362330535978,analytical note
+2026-01-08 13:43:07+00:00,Apple mock event 10-1,Mock description for Apple event 1.,https://example.com/apple/9/0,0.006709960345306313,analytical note
+2026-01-08 04:43:07+00:00,Apple mock event 10-2,Mock description for Apple event 2.,https://example.com/apple/9/1,-0.527054077873955,news_fm
+2026-01-07 16:43:07+00:00,Apple mock event 11-1,Mock description for Apple event 1.,https://example.com/apple/10/0,0.4565797743356759,twit
+2026-01-07 11:43:07+00:00,Apple mock event 11-3,Mock description for Apple event 3.,https://example.com/apple/10/2,-1.0,news_fm
+2026-01-07 09:43:07+00:00,Apple mock event 11-2,Mock description for Apple event 2.,https://example.com/apple/10/1,-1.0,news_fm
+2026-01-06 15:43:07+00:00,Apple mock event 12-3,Mock description for Apple event 3.,https://example.com/apple/11/2,-0.26812688098006665,twit
+2026-01-06 10:43:07+00:00,Apple mock event 12-1,Mock description for Apple event 1.,https://example.com/apple/11/0,0.07453643564558435,analytical note
+2026-01-06 06:43:07+00:00,Apple mock event 12-2,Mock description for Apple event 2.,https://example.com/apple/11/1,0.01870229783497099,twit
+2026-01-05 14:43:07+00:00,Apple mock event 13-3,Mock description for Apple event 3.,https://example.com/apple/12/2,0.578109454873564,twit
+2026-01-05 06:43:07+00:00,Apple mock event 13-1,Mock description for Apple event 1.,https://example.com/apple/12/0,-0.12220931863128644,twit
+2026-01-05 04:43:07+00:00,Apple mock event 13-2,Mock description for Apple event 2.,https://example.com/apple/12/1,0.6118626650566579,news_fm
+2026-01-04 10:43:07+00:00,Apple mock event 14-3,Mock description for Apple event 3.,https://example.com/apple/13/2,0.5553625971213287,twit
+2026-01-04 06:43:07+00:00,Apple mock event 14-1,Mock description for Apple event 1.,https://example.com/apple/13/0,0.3491088901317318,news_fm
+2026-01-04 06:43:07+00:00,Apple mock event 14-2,Mock description for Apple event 2.,https://example.com/apple/13/1,-0.001601443428056747,news
+2026-01-03 17:43:07+00:00,Apple mock event 15-3,Mock description for Apple event 3.,https://example.com/apple/14/2,0.4305647895676786,news_fm
+2026-01-03 14:43:07+00:00,Apple mock event 15-1,Mock description for Apple event 1.,https://example.com/apple/14/0,-0.07631162772772987,analytical note
+2026-01-03 09:43:07+00:00,Apple mock event 15-2,Mock description for Apple event 2.,https://example.com/apple/14/1,-0.24480922925543605,twit
+2026-01-02 11:43:07+00:00,Apple mock event 16-2,Mock description for Apple event 2.,https://example.com/apple/15/1,-0.39990480866468087,twit
+2026-01-02 07:43:07+00:00,Apple mock event 16-3,Mock description for Apple event 3.,https://example.com/apple/15/2,0.15925605256951988,analytical note
+2026-01-02 05:43:07+00:00,Apple mock event 16-1,Mock description for Apple event 1.,https://example.com/apple/15/0,0.6620141084897642,news_fm
+2026-01-01 21:43:07+00:00,Apple mock event 17-2,Mock description for Apple event 2.,https://example.com/apple/16/1,1.0,news_fm
+2026-01-01 18:43:07+00:00,Apple mock event 17-1,Mock description for Apple event 1.,https://example.com/apple/16/0,0.06783876943304638,news_fm
+2026-01-01 03:43:07+00:00,Apple mock event 17-3,Mock description for Apple event 3.,https://example.com/apple/16/2,0.18120335601027346,twit
+2025-12-31 19:43:07+00:00,Apple mock event 18-2,Mock description for Apple event 2.,https://example.com/apple/17/1,0.0608599269906228,analytical note
+2025-12-31 16:43:07+00:00,Apple mock event 18-1,Mock description for Apple event 1.,https://example.com/apple/17/0,0.19547809500796232,analytical note
+2025-12-31 13:43:07+00:00,Apple mock event 18-3,Mock description for Apple event 3.,https://example.com/apple/17/2,0.32631737180428,analytical note
+2025-12-30 19:43:07+00:00,Apple mock event 19-3,Mock description for Apple event 3.,https://example.com/apple/18/2,0.369510192248872,analytical note
+2025-12-30 09:43:07+00:00,Apple mock event 19-1,Mock description for Apple event 1.,https://example.com/apple/18/0,0.2871372108107805,twit
+2025-12-30 02:43:07+00:00,Apple mock event 19-2,Mock description for Apple event 2.,https://example.com/apple/18/1,0.16574383901879125,news
+2025-12-29 15:43:07+00:00,Apple mock event 20-2,Mock description for Apple event 2.,https://example.com/apple/19/1,-0.39194743890023387,news_fm
+2025-12-29 11:43:07+00:00,Apple mock event 20-3,Mock description for Apple event 3.,https://example.com/apple/19/2,-0.22598162571715966,news_fm
+2025-12-29 09:43:07+00:00,Apple mock event 20-1,Mock description for Apple event 1.,https://example.com/apple/19/0,0.14534046806941292,twit
+2025-12-28 19:43:07+00:00,Apple mock event 21-2,Mock description for Apple event 2.,https://example.com/apple/20/1,0.23485162590195421,analytical note
+2025-12-28 14:43:07+00:00,Apple mock event 21-1,Mock description for Apple event 1.,https://example.com/apple/20/0,-0.08930520068080679,twit
+2025-12-28 09:43:07+00:00,Apple mock event 21-3,Mock description for Apple event 3.,https://example.com/apple/20/2,-0.046577244702571505,twit
+2025-12-27 19:43:07+00:00,Apple mock event 22-2,Mock description for Apple event 2.,https://example.com/apple/21/1,0.04920523471521528,news_fm
+2025-12-27 18:43:07+00:00,Apple mock event 22-1,Mock description for Apple event 1.,https://example.com/apple/21/0,0.6370684708743445,twit
+2025-12-27 09:43:07+00:00,Apple mock event 22-3,Mock description for Apple event 3.,https://example.com/apple/21/2,-0.31444489842377404,twit
+2025-12-26 14:43:07+00:00,Apple mock event 23-2,Mock description for Apple event 2.,https://example.com/apple/22/1,0.38801506611392705,analytical note
+2025-12-26 10:43:07+00:00,Apple mock event 23-1,Mock description for Apple event 1.,https://example.com/apple/22/0,-0.0562871996058506,analytical note
+2025-12-26 07:43:07+00:00,Apple mock event 23-3,Mock description for Apple event 3.,https://example.com/apple/22/2,0.23287846099910006,news_fm
+2025-12-25 14:43:07+00:00,Apple mock event 24-3,Mock description for Apple event 3.,https://example.com/apple/23/2,-0.14223845589425538,analytical note
+2025-12-25 13:43:07+00:00,Apple mock event 24-2,Mock description for Apple event 2.,https://example.com/apple/23/1,-0.5675110035703882,analytical note
+2025-12-25 09:43:07+00:00,Apple mock event 24-1,Mock description for Apple event 1.,https://example.com/apple/23/0,-0.09607029709047932,news_fm
+2025-12-24 19:43:07+00:00,Apple mock event 25-2,Mock description for Apple event 2.,https://example.com/apple/24/1,-0.25409701343335134,twit
+2025-12-24 10:43:07+00:00,Apple mock event 25-3,Mock description for Apple event 3.,https://example.com/apple/24/2,0.562613783515306,news
+2025-12-24 03:43:07+00:00,Apple mock event 25-1,Mock description for Apple event 1.,https://example.com/apple/24/0,-0.9555108310990552,twit
+2025-12-23 18:43:07+00:00,Apple mock event 26-2,Mock description for Apple event 2.,https://example.com/apple/25/1,0.15154993571425052,news_fm
+2025-12-23 08:43:07+00:00,Apple mock event 26-1,Mock description for Apple event 1.,https://example.com/apple/25/0,0.8898360719639594,analytical note
+2025-12-23 08:43:07+00:00,Apple mock event 26-3,Mock description for Apple event 3.,https://example.com/apple/25/2,0.3565387715361326,news
+2025-12-22 16:43:07+00:00,Apple mock event 27-2,Mock description for Apple event 2.,https://example.com/apple/26/1,0.1269424264945743,twit
+2025-12-22 13:43:07+00:00,Apple mock event 27-1,Mock description for Apple event 1.,https://example.com/apple/26/0,-0.06222794904230273,analytical note
+2025-12-22 03:43:07+00:00,Apple mock event 27-3,Mock description for Apple event 3.,https://example.com/apple/26/2,0.9613375758882834,news_fm
+2025-12-21 20:43:07+00:00,Apple mock event 28-1,Mock description for Apple event 1.,https://example.com/apple/27/0,-0.17539925538740733,analytical note
+2025-12-21 15:43:07+00:00,Apple mock event 28-3,Mock description for Apple event 3.,https://example.com/apple/27/2,-0.07905759147672373,news
+2025-12-21 13:43:07+00:00,Apple mock event 28-2,Mock description for Apple event 2.,https://example.com/apple/27/1,-0.475623791148578,analytical note
+2025-12-20 14:43:07+00:00,Apple mock event 29-1,Mock description for Apple event 1.,https://example.com/apple/28/0,0.28616834273452135,twit
+2025-12-20 14:43:07+00:00,Apple mock event 29-3,Mock description for Apple event 3.,https://example.com/apple/28/2,0.9500877625269618,analytical note
+2025-12-20 11:43:07+00:00,Apple mock event 29-2,Mock description for Apple event 2.,https://example.com/apple/28/1,0.3096522856534444,twit
+2025-12-19 13:43:07+00:00,Apple mock event 30-3,Mock description for Apple event 3.,https://example.com/apple/29/2,0.014627257802805146,news_fm
+2025-12-19 08:43:07+00:00,Apple mock event 30-1,Mock description for Apple event 1.,https://example.com/apple/29/0,1.0,news_fm
+2025-12-19 06:43:07+00:00,Apple mock event 30-2,Mock description for Apple event 2.,https://example.com/apple/29/1,1.0,news
+2025-12-18 17:43:07+00:00,Apple mock event 31-3,Mock description for Apple event 3.,https://example.com/apple/30/2,0.4534696985402934,analytical note
+2025-12-18 09:43:07+00:00,Apple mock event 31-2,Mock description for Apple event 2.,https://example.com/apple/30/1,-0.565146663377225,news
+2025-12-18 02:43:07+00:00,Apple mock event 31-1,Mock description for Apple event 1.,https://example.com/apple/30/0,0.6432989809319689,news_fm
+2025-12-17 11:43:07+00:00,Apple mock event 32-2,Mock description for Apple event 2.,https://example.com/apple/31/1,-0.17092759109126723,news
+2025-12-17 10:43:07+00:00,Apple mock event 32-3,Mock description for Apple event 3.,https://example.com/apple/31/2,-0.15465829498265857,twit
+2025-12-17 02:43:07+00:00,Apple mock event 32-1,Mock description for Apple event 1.,https://example.com/apple/31/0,-0.31765669732148083,analytical note
+2025-12-16 07:43:07+00:00,Apple mock event 33-2,Mock description for Apple event 2.,https://example.com/apple/32/1,0.5392757252952709,news_fm
+2025-12-16 04:43:07+00:00,Apple mock event 33-1,Mock description for Apple event 1.,https://example.com/apple/32/0,-0.13726649091640297,analytical note
+2025-12-16 03:43:07+00:00,Apple mock event 33-3,Mock description for Apple event 3.,https://example.com/apple/32/2,-0.323556399371217,analytical note
+2025-12-15 15:43:07+00:00,Apple mock event 34-2,Mock description for Apple event 2.,https://example.com/apple/33/1,0.11308609900097272,twit
+2025-12-15 10:43:07+00:00,Apple mock event 34-3,Mock description for Apple event 3.,https://example.com/apple/33/2,-0.5792075533420301,twit
+2025-12-15 03:43:07+00:00,Apple mock event 34-1,Mock description for Apple event 1.,https://example.com/apple/33/0,-0.9028725172937315,analytical note
+2025-12-14 16:43:07+00:00,Apple mock event 35-2,Mock description for Apple event 2.,https://example.com/apple/34/1,-0.0826124924792505,analytical note
+2025-12-14 06:43:07+00:00,Apple mock event 35-3,Mock description for Apple event 3.,https://example.com/apple/34/2,-0.0241028230354037,twit
+2025-12-14 02:43:07+00:00,Apple mock event 35-1,Mock description for Apple event 1.,https://example.com/apple/34/0,0.7421722554675372,twit
+2025-12-13 20:43:07+00:00,Apple mock event 36-3,Mock description for Apple event 3.,https://example.com/apple/35/2,-0.27591520884022297,analytical note
+2025-12-13 15:43:07+00:00,Apple mock event 36-1,Mock description for Apple event 1.,https://example.com/apple/35/0,-0.5226658078814788,analytical note
+2025-12-13 06:43:07+00:00,Apple mock event 36-2,Mock description for Apple event 2.,https://example.com/apple/35/1,0.3486564891038767,news
+2025-12-12 16:43:07+00:00,Apple mock event 37-1,Mock description for Apple event 1.,https://example.com/apple/36/0,-0.08843301108276526,news_fm
+2025-12-12 09:43:07+00:00,Apple mock event 37-3,Mock description for Apple event 3.,https://example.com/apple/36/2,0.180009731281683,twit
+2025-12-12 08:43:07+00:00,Apple mock event 37-2,Mock description for Apple event 2.,https://example.com/apple/36/1,0.5019241228787297,news_fm
+2025-12-11 18:43:07+00:00,Apple mock event 38-3,Mock description for Apple event 3.,https://example.com/apple/37/2,0.1527565726341312,news
+2025-12-11 14:43:07+00:00,Apple mock event 38-1,Mock description for Apple event 1.,https://example.com/apple/37/0,-0.02889158153777995,analytical note
+2025-12-11 02:43:07+00:00,Apple mock event 38-2,Mock description for Apple event 2.,https://example.com/apple/37/1,-0.08105622450420481,news_fm
+2025-12-10 19:43:07+00:00,Apple mock event 39-1,Mock description for Apple event 1.,https://example.com/apple/38/0,0.20968185064209255,news_fm
+2025-12-10 11:43:07+00:00,Apple mock event 39-2,Mock description for Apple event 2.,https://example.com/apple/38/1,0.28168286347194166,news
+2025-12-10 03:43:07+00:00,Apple mock event 39-3,Mock description for Apple event 3.,https://example.com/apple/38/2,0.21322149346195063,analytical note
+2025-12-09 11:43:07+00:00,Apple mock event 40-1,Mock description for Apple event 1.,https://example.com/apple/39/0,0.2242291804479978,analytical note
+2025-12-09 10:43:07+00:00,Apple mock event 40-3,Mock description for Apple event 3.,https://example.com/apple/39/2,0.4099807951067013,twit
+2025-12-09 05:43:07+00:00,Apple mock event 40-2,Mock description for Apple event 2.,https://example.com/apple/39/1,0.47787585351720524,twit
+2025-12-08 13:43:07+00:00,Apple mock event 41-2,Mock description for Apple event 2.,https://example.com/apple/40/1,-0.5101935485421839,twit
+2025-12-08 12:43:07+00:00,Apple mock event 41-3,Mock description for Apple event 3.,https://example.com/apple/40/2,0.5154185856979082,news
+2025-12-08 02:43:07+00:00,Apple mock event 41-1,Mock description for Apple event 1.,https://example.com/apple/40/0,0.20501966875367988,analytical note
+2025-12-07 21:43:07+00:00,Apple mock event 42-1,Mock description for Apple event 1.,https://example.com/apple/41/0,-0.3245068968447388,news_fm
+2025-12-07 19:43:07+00:00,Apple mock event 42-2,Mock description for Apple event 2.,https://example.com/apple/41/1,-0.22671690990742688,news
+2025-12-07 18:43:07+00:00,Apple mock event 42-3,Mock description for Apple event 3.,https://example.com/apple/41/2,-0.38078820418561465,news_fm
+2025-12-06 18:43:07+00:00,Apple mock event 43-3,Mock description for Apple event 3.,https://example.com/apple/42/2,-0.24163823648363625,news
+2025-12-06 13:43:07+00:00,Apple mock event 43-1,Mock description for Apple event 1.,https://example.com/apple/42/0,0.489113179858298,twit
+2025-12-06 09:43:07+00:00,Apple mock event 43-2,Mock description for Apple event 2.,https://example.com/apple/42/1,0.08779299297977206,news_fm
+2025-12-05 21:43:07+00:00,Apple mock event 44-2,Mock description for Apple event 2.,https://example.com/apple/43/1,0.14635548208917257,news_fm
+2025-12-05 02:43:07+00:00,Apple mock event 44-1,Mock description for Apple event 1.,https://example.com/apple/43/0,0.3274999255924587,news_fm
+2025-12-05 02:43:07+00:00,Apple mock event 44-3,Mock description for Apple event 3.,https://example.com/apple/43/2,-0.33169778950752293,news_fm
+2025-12-04 06:43:07+00:00,Apple mock event 45-2,Mock description for Apple event 2.,https://example.com/apple/44/1,0.07974452926907773,news_fm
+2025-12-04 04:43:07+00:00,Apple mock event 45-3,Mock description for Apple event 3.,https://example.com/apple/44/2,-0.3933047077078965,news_fm
+2025-12-04 03:43:07+00:00,Apple mock event 45-1,Mock description for Apple event 1.,https://example.com/apple/44/0,0.10941004154403668,news
+2025-12-03 20:43:07+00:00,Apple mock event 46-1,Mock description for Apple event 1.,https://example.com/apple/45/0,-0.2458834169372056,news_fm
+2025-12-03 11:43:07+00:00,Apple mock event 46-2,Mock description for Apple event 2.,https://example.com/apple/45/1,-0.008630873752467131,analytical note
+2025-12-03 04:43:07+00:00,Apple mock event 46-3,Mock description for Apple event 3.,https://example.com/apple/45/2,0.09055775703314532,news
+2025-12-02 10:43:07+00:00,Apple mock event 47-1,Mock description for Apple event 1.,https://example.com/apple/46/0,0.018986292268540598,news
+2025-12-02 08:43:07+00:00,Apple mock event 47-2,Mock description for Apple event 2.,https://example.com/apple/46/1,0.3584050891705133,news
+2025-12-02 08:43:07+00:00,Apple mock event 47-3,Mock description for Apple event 3.,https://example.com/apple/46/2,0.6307414277888348,news
+2025-12-01 16:43:07+00:00,Apple mock event 48-2,Mock description for Apple event 2.,https://example.com/apple/47/1,0.02523663398707276,twit
+2025-12-01 13:43:07+00:00,Apple mock event 48-3,Mock description for Apple event 3.,https://example.com/apple/47/2,-0.9183864593659171,analytical note
+2025-12-01 04:43:07+00:00,Apple mock event 48-1,Mock description for Apple event 1.,https://example.com/apple/47/0,0.1225715647469434,analytical note
+2025-11-30 18:43:07+00:00,Apple mock event 49-2,Mock description for Apple event 2.,https://example.com/apple/48/1,0.3801716401197297,analytical note
+2025-11-30 11:43:07+00:00,Apple mock event 49-3,Mock description for Apple event 3.,https://example.com/apple/48/2,0.36756416577777357,news_fm
+2025-11-30 03:43:07+00:00,Apple mock event 49-1,Mock description for Apple event 1.,https://example.com/apple/48/0,-0.016228507149816548,news_fm
+2025-11-29 13:43:07+00:00,Apple mock event 50-1,Mock description for Apple event 1.,https://example.com/apple/49/0,-0.1357148212929298,news
+2025-11-29 13:43:07+00:00,Apple mock event 50-2,Mock description for Apple event 2.,https://example.com/apple/49/1,-0.5535344956379821,news
+2025-11-29 12:43:07+00:00,Apple mock event 50-3,Mock description for Apple event 3.,https://example.com/apple/49/2,-0.2638459477238918,twit
+2025-11-28 17:43:07+00:00,Apple mock event 51-3,Mock description for Apple event 3.,https://example.com/apple/50/2,1.0,news_fm
+2025-11-28 13:43:07+00:00,Apple mock event 51-1,Mock description for Apple event 1.,https://example.com/apple/50/0,0.570543145652238,twit
+2025-11-28 09:43:07+00:00,Apple mock event 51-2,Mock description for Apple event 2.,https://example.com/apple/50/1,1.0,news
+2025-11-27 12:43:07+00:00,Apple mock event 52-2,Mock description for Apple event 2.,https://example.com/apple/51/1,0.2362290510832148,analytical note
+2025-11-27 08:43:07+00:00,Apple mock event 52-1,Mock description for Apple event 1.,https://example.com/apple/51/0,0.23950447096890376,analytical note
+2025-11-27 07:43:07+00:00,Apple mock event 52-3,Mock description for Apple event 3.,https://example.com/apple/51/2,-0.601666721033129,analytical note
+2025-11-26 19:43:07+00:00,Apple mock event 53-1,Mock description for Apple event 1.,https://example.com/apple/52/0,0.24634912548872925,twit
+2025-11-26 14:43:07+00:00,Apple mock event 53-2,Mock description for Apple event 2.,https://example.com/apple/52/1,-0.17589563626745586,twit
+2025-11-26 11:43:07+00:00,Apple mock event 53-3,Mock description for Apple event 3.,https://example.com/apple/52/2,-0.6322314666147357,analytical note
+2025-11-25 15:43:07+00:00,Apple mock event 54-2,Mock description for Apple event 2.,https://example.com/apple/53/1,-0.015282898326209873,news_fm
+2025-11-25 11:43:07+00:00,Apple mock event 54-3,Mock description for Apple event 3.,https://example.com/apple/53/2,0.7091734387628411,news_fm
+2025-11-25 07:43:07+00:00,Apple mock event 54-1,Mock description for Apple event 1.,https://example.com/apple/53/0,-0.16928822554958764,analytical note
+2025-11-24 18:43:07+00:00,Apple mock event 55-1,Mock description for Apple event 1.,https://example.com/apple/54/0,0.49508266112652316,news_fm
+2025-11-24 17:43:07+00:00,Apple mock event 55-3,Mock description for Apple event 3.,https://example.com/apple/54/2,-0.5796611897098067,twit
+2025-11-24 06:43:07+00:00,Apple mock event 55-2,Mock description for Apple event 2.,https://example.com/apple/54/1,-0.6400719063566496,news_fm
+2025-11-23 10:43:07+00:00,Apple mock event 56-2,Mock description for Apple event 2.,https://example.com/apple/55/1,0.3455539324928657,analytical note
+2025-11-23 06:43:07+00:00,Apple mock event 56-3,Mock description for Apple event 3.,https://example.com/apple/55/2,-0.5158253030555915,news_fm
+2025-11-23 05:43:07+00:00,Apple mock event 56-1,Mock description for Apple event 1.,https://example.com/apple/55/0,0.4537797370125058,analytical note
+2025-11-22 16:43:07+00:00,Apple mock event 57-3,Mock description for Apple event 3.,https://example.com/apple/56/2,0.05536290959023895,twit
+2025-11-22 16:43:07+00:00,Apple mock event 57-1,Mock description for Apple event 1.,https://example.com/apple/56/0,-0.011389762385600218,news_fm
+2025-11-22 02:43:07+00:00,Apple mock event 57-2,Mock description for Apple event 2.,https://example.com/apple/56/1,-0.4407664707783026,news_fm
+2025-11-21 21:43:07+00:00,Apple mock event 58-1,Mock description for Apple event 1.,https://example.com/apple/57/0,0.482318375496317,news
+2025-11-21 14:43:07+00:00,Apple mock event 58-2,Mock description for Apple event 2.,https://example.com/apple/57/1,0.2596662459207789,news
+2025-11-21 06:43:07+00:00,Apple mock event 58-3,Mock description for Apple event 3.,https://example.com/apple/57/2,0.02584527537435465,news
+2025-11-20 20:43:07+00:00,Apple mock event 59-3,Mock description for Apple event 3.,https://example.com/apple/58/2,0.2916781096758425,news_fm
+2025-11-20 09:43:07+00:00,Apple mock event 59-1,Mock description for Apple event 1.,https://example.com/apple/58/0,0.3107102926624867,twit
+2025-11-20 03:43:07+00:00,Apple mock event 59-2,Mock description for Apple event 2.,https://example.com/apple/58/1,0.04361290071032133,news
+2025-11-19 17:43:07+00:00,Apple mock event 60-3,Mock description for Apple event 3.,https://example.com/apple/59/2,0.041691094156178075,news
+2025-11-19 12:43:07+00:00,Apple mock event 60-2,Mock description for Apple event 2.,https://example.com/apple/59/1,-0.028777630242160606,twit
+2025-11-19 10:43:07+00:00,Apple mock event 60-1,Mock description for Apple event 1.,https://example.com/apple/59/0,-0.460797896703277,twit
+2025-11-18 18:43:07+00:00,Apple mock event 61-2,Mock description for Apple event 2.,https://example.com/apple/60/1,-0.3927026210564535,news_fm
+2025-11-18 12:43:07+00:00,Apple mock event 61-3,Mock description for Apple event 3.,https://example.com/apple/60/2,-0.03760140331685584,analytical note
+2025-11-18 02:43:07+00:00,Apple mock event 61-1,Mock description for Apple event 1.,https://example.com/apple/60/0,-0.016022950269728862,twit
+2025-11-17 14:43:07+00:00,Apple mock event 62-1,Mock description for Apple event 1.,https://example.com/apple/61/0,0.09273411243744785,news
+2025-11-17 09:43:07+00:00,Apple mock event 62-3,Mock description for Apple event 3.,https://example.com/apple/61/2,-0.14669021724940684,news_fm
+2025-11-17 02:43:07+00:00,Apple mock event 62-2,Mock description for Apple event 2.,https://example.com/apple/61/1,-0.21291290068271024,news
+2025-11-16 15:43:07+00:00,Apple mock event 63-2,Mock description for Apple event 2.,https://example.com/apple/62/1,0.018060378665671888,analytical note
+2025-11-16 13:43:07+00:00,Apple mock event 63-1,Mock description for Apple event 1.,https://example.com/apple/62/0,0.3774891539230876,analytical note
+2025-11-16 09:43:07+00:00,Apple mock event 63-3,Mock description for Apple event 3.,https://example.com/apple/62/2,0.284008495497044,analytical note
+2025-11-15 15:43:07+00:00,Apple mock event 64-2,Mock description for Apple event 2.,https://example.com/apple/63/1,0.1465158904072343,analytical note
+2025-11-15 05:43:07+00:00,Apple mock event 64-1,Mock description for Apple event 1.,https://example.com/apple/63/0,-0.09772709452601186,analytical note
+2025-11-15 02:43:07+00:00,Apple mock event 64-3,Mock description for Apple event 3.,https://example.com/apple/63/2,0.1417458988132958,analytical note
+2025-11-14 21:43:07+00:00,Apple mock event 65-3,Mock description for Apple event 3.,https://example.com/apple/64/2,-0.05094488295953217,analytical note
+2025-11-14 16:43:07+00:00,Apple mock event 65-1,Mock description for Apple event 1.,https://example.com/apple/64/0,-0.40242361394070875,news_fm
+2025-11-14 07:43:07+00:00,Apple mock event 65-2,Mock description for Apple event 2.,https://example.com/apple/64/1,0.17425679397081104,news_fm
+2025-11-13 14:43:07+00:00,Apple mock event 66-2,Mock description for Apple event 2.,https://example.com/apple/65/1,-0.23106035736438074,news_fm
+2025-11-13 11:43:07+00:00,Apple mock event 66-3,Mock description for Apple event 3.,https://example.com/apple/65/2,0.21181156613873006,analytical note
+2025-11-13 05:43:07+00:00,Apple mock event 66-1,Mock description for Apple event 1.,https://example.com/apple/65/0,0.5459019982030958,analytical note
+2025-11-12 16:43:07+00:00,Apple mock event 67-1,Mock description for Apple event 1.,https://example.com/apple/66/0,-0.15816741705180143,news
+2025-11-12 08:43:07+00:00,Apple mock event 67-3,Mock description for Apple event 3.,https://example.com/apple/66/2,0.2686282721421309,analytical note
+2025-11-12 02:43:07+00:00,Apple mock event 67-2,Mock description for Apple event 2.,https://example.com/apple/66/1,0.006573034144949168,news
+2025-11-11 19:43:07+00:00,Apple mock event 68-3,Mock description for Apple event 3.,https://example.com/apple/67/2,0.8536342325523327,twit
+2025-11-11 12:43:07+00:00,Apple mock event 68-1,Mock description for Apple event 1.,https://example.com/apple/67/0,0.33675823143408146,analytical note
+2025-11-11 07:43:07+00:00,Apple mock event 68-2,Mock description for Apple event 2.,https://example.com/apple/67/1,0.3607368659105128,analytical note
+2025-11-10 20:43:07+00:00,Apple mock event 69-3,Mock description for Apple event 3.,https://example.com/apple/68/2,0.07398455316830406,analytical note
+2025-11-10 16:43:07+00:00,Apple mock event 69-2,Mock description for Apple event 2.,https://example.com/apple/68/1,-0.20772566700169373,twit
+2025-11-10 12:43:07+00:00,Apple mock event 69-1,Mock description for Apple event 1.,https://example.com/apple/68/0,1.0,news
+2025-11-09 19:43:07+00:00,Apple mock event 70-1,Mock description for Apple event 1.,https://example.com/apple/69/0,0.06079750931049812,news_fm
+2025-11-09 13:43:07+00:00,Apple mock event 70-2,Mock description for Apple event 2.,https://example.com/apple/69/1,0.159424884159439,news_fm
+2025-11-09 08:43:07+00:00,Apple mock event 70-3,Mock description for Apple event 3.,https://example.com/apple/69/2,0.029346308965135487,news_fm
+2025-11-08 20:43:07+00:00,Apple mock event 71-1,Mock description for Apple event 1.,https://example.com/apple/70/0,-0.45757032800712943,news_fm
+2025-11-08 13:43:07+00:00,Apple mock event 71-3,Mock description for Apple event 3.,https://example.com/apple/70/2,-0.21187863103345309,analytical note
+2025-11-08 03:43:07+00:00,Apple mock event 71-2,Mock description for Apple event 2.,https://example.com/apple/70/1,-0.3467463835030175,twit
+2025-11-07 18:43:07+00:00,Apple mock event 72-1,Mock description for Apple event 1.,https://example.com/apple/71/0,1.0,analytical note
+2025-11-07 18:43:07+00:00,Apple mock event 72-2,Mock description for Apple event 2.,https://example.com/apple/71/1,-0.3003189599568956,news_fm
+2025-11-07 06:43:07+00:00,Apple mock event 72-3,Mock description for Apple event 3.,https://example.com/apple/71/2,0.17643791901995334,news_fm
+2025-11-06 18:43:07+00:00,Apple mock event 73-2,Mock description for Apple event 2.,https://example.com/apple/72/1,0.4124930540762615,analytical note
+2025-11-06 15:43:07+00:00,Apple mock event 73-3,Mock description for Apple event 3.,https://example.com/apple/72/2,0.1156968915439323,analytical note
+2025-11-06 05:43:07+00:00,Apple mock event 73-1,Mock description for Apple event 1.,https://example.com/apple/72/0,0.1424669059960438,analytical note
+2025-11-05 21:43:07+00:00,Apple mock event 74-2,Mock description for Apple event 2.,https://example.com/apple/73/1,-0.5559254837357273,analytical note
+2025-11-05 11:43:07+00:00,Apple mock event 74-3,Mock description for Apple event 3.,https://example.com/apple/73/2,-0.9211396121531418,twit
+2025-11-05 10:43:07+00:00,Apple mock event 74-1,Mock description for Apple event 1.,https://example.com/apple/73/0,-1.0,news_fm
+2025-11-04 17:43:07+00:00,Apple mock event 75-2,Mock description for Apple event 2.,https://example.com/apple/74/1,0.6102074586519372,analytical note
+2025-11-04 17:43:07+00:00,Apple mock event 75-3,Mock description for Apple event 3.,https://example.com/apple/74/2,-0.5217414229264896,analytical note
+2025-11-04 09:43:07+00:00,Apple mock event 75-1,Mock description for Apple event 1.,https://example.com/apple/74/0,0.4131648762215305,twit
+2025-11-03 14:43:07+00:00,Apple mock event 76-3,Mock description for Apple event 3.,https://example.com/apple/75/2,0.11448732185118281,twit
+2025-11-03 10:43:07+00:00,Apple mock event 76-2,Mock description for Apple event 2.,https://example.com/apple/75/1,0.2204751727578103,news
+2025-11-03 05:43:07+00:00,Apple mock event 76-1,Mock description for Apple event 1.,https://example.com/apple/75/0,-0.0725926910158661,analytical note
+2025-11-02 13:43:07+00:00,Apple mock event 77-3,Mock description for Apple event 3.,https://example.com/apple/76/2,-0.23040521104038028,analytical note
+2025-11-02 06:43:07+00:00,Apple mock event 77-1,Mock description for Apple event 1.,https://example.com/apple/76/0,-0.9488940696814051,news
+2025-11-02 06:43:07+00:00,Apple mock event 77-2,Mock description for Apple event 2.,https://example.com/apple/76/1,-0.11734701198771957,news
+2025-11-01 17:43:07+00:00,Apple mock event 78-1,Mock description for Apple event 1.,https://example.com/apple/77/0,0.20156779395541635,analytical note
+2025-11-01 15:43:07+00:00,Apple mock event 78-3,Mock description for Apple event 3.,https://example.com/apple/77/2,-0.6056061531329756,twit
+2025-11-01 04:43:07+00:00,Apple mock event 78-2,Mock description for Apple event 2.,https://example.com/apple/77/1,-0.6564203065710944,news_fm
+2025-10-31 19:43:07+00:00,Apple mock event 79-1,Mock description for Apple event 1.,https://example.com/apple/78/0,0.17218449529321306,analytical note
+2025-10-31 10:43:07+00:00,Apple mock event 79-3,Mock description for Apple event 3.,https://example.com/apple/78/2,0.33341730063215125,news
+2025-10-31 02:43:07+00:00,Apple mock event 79-2,Mock description for Apple event 2.,https://example.com/apple/78/1,-0.05904718765532614,twit
+2025-10-30 19:43:07+00:00,Apple mock event 80-3,Mock description for Apple event 3.,https://example.com/apple/79/2,0.27279343559901037,news_fm
+2025-10-30 12:43:07+00:00,Apple mock event 80-1,Mock description for Apple event 1.,https://example.com/apple/79/0,0.3850206580457032,analytical note
+2025-10-30 08:43:07+00:00,Apple mock event 80-2,Mock description for Apple event 2.,https://example.com/apple/79/1,-0.18561254500207386,news
+2025-10-29 08:43:07+00:00,Apple mock event 81-3,Mock description for Apple event 3.,https://example.com/apple/80/2,-0.5102423959999233,twit
+2025-10-29 07:43:07+00:00,Apple mock event 81-2,Mock description for Apple event 2.,https://example.com/apple/80/1,-0.3074344092558609,news_fm
+2025-10-29 02:43:07+00:00,Apple mock event 81-1,Mock description for Apple event 1.,https://example.com/apple/80/0,0.14808665682849587,twit
+2025-10-28 19:43:07+00:00,Apple mock event 82-3,Mock description for Apple event 3.,https://example.com/apple/81/2,0.15160598968453728,twit
+2025-10-28 10:43:07+00:00,Apple mock event 82-1,Mock description for Apple event 1.,https://example.com/apple/81/0,-0.24433979748624887,news
+2025-10-28 05:43:07+00:00,Apple mock event 82-2,Mock description for Apple event 2.,https://example.com/apple/81/1,-0.500596188742281,analytical note
+2025-10-27 09:43:07+00:00,Apple mock event 83-3,Mock description for Apple event 3.,https://example.com/apple/82/2,-0.31839302476739056,news_fm
+2025-10-27 07:43:07+00:00,Apple mock event 83-1,Mock description for Apple event 1.,https://example.com/apple/82/0,0.2654867231787474,twit
+2025-10-27 06:43:07+00:00,Apple mock event 83-2,Mock description for Apple event 2.,https://example.com/apple/82/1,-0.7621154928788597,news
+2025-10-26 15:43:07+00:00,Apple mock event 84-1,Mock description for Apple event 1.,https://example.com/apple/83/0,-0.1407575091902174,news_fm
+2025-10-26 12:43:07+00:00,Apple mock event 84-3,Mock description for Apple event 3.,https://example.com/apple/83/2,0.6428248518346731,news
+2025-10-26 07:43:07+00:00,Apple mock event 84-2,Mock description for Apple event 2.,https://example.com/apple/83/1,-0.571275434019402,news_fm
+2025-10-25 19:43:07+00:00,Apple mock event 85-2,Mock description for Apple event 2.,https://example.com/apple/84/1,-0.19102974135084497,analytical note
+2025-10-25 10:43:07+00:00,Apple mock event 85-3,Mock description for Apple event 3.,https://example.com/apple/84/2,0.030634289341962086,news_fm
+2025-10-25 04:43:07+00:00,Apple mock event 85-1,Mock description for Apple event 1.,https://example.com/apple/84/0,-0.5072545637752375,news_fm
+2025-10-24 21:43:07+00:00,Apple mock event 86-1,Mock description for Apple event 1.,https://example.com/apple/85/0,0.5937866535378795,twit
+2025-10-24 14:43:07+00:00,Apple mock event 86-2,Mock description for Apple event 2.,https://example.com/apple/85/1,0.6573852001585644,analytical note
+2025-10-24 07:43:07+00:00,Apple mock event 86-3,Mock description for Apple event 3.,https://example.com/apple/85/2,-0.5232522176033945,twit
+2025-10-23 15:43:07+00:00,Apple mock event 87-3,Mock description for Apple event 3.,https://example.com/apple/86/2,-0.31145027349940374,news_fm
+2025-10-23 06:43:07+00:00,Apple mock event 87-1,Mock description for Apple event 1.,https://example.com/apple/86/0,0.1480865129107835,twit
+2025-10-23 02:43:07+00:00,Apple mock event 87-2,Mock description for Apple event 2.,https://example.com/apple/86/1,0.7679852147440164,analytical note
+2025-10-22 18:43:07+00:00,Apple mock event 88-2,Mock description for Apple event 2.,https://example.com/apple/87/1,-0.3848724974611681,analytical note
+2025-10-22 18:43:07+00:00,Apple mock event 88-1,Mock description for Apple event 1.,https://example.com/apple/87/0,-0.5096022491551758,twit
+2025-10-22 13:43:07+00:00,Apple mock event 88-3,Mock description for Apple event 3.,https://example.com/apple/87/2,0.6871707311590506,twit
+2025-10-21 19:43:07+00:00,Apple mock event 89-1,Mock description for Apple event 1.,https://example.com/apple/88/0,-0.020417868924126323,news_fm
+2025-10-21 12:43:07+00:00,Apple mock event 89-2,Mock description for Apple event 2.,https://example.com/apple/88/1,-0.5734334651014965,analytical note
+2025-10-21 10:43:07+00:00,Apple mock event 89-3,Mock description for Apple event 3.,https://example.com/apple/88/2,-0.42873577535644175,news_fm
+2025-10-20 21:43:07+00:00,Apple mock event 90-1,Mock description for Apple event 1.,https://example.com/apple/89/0,0.4006887403428172,twit
+2025-10-20 17:43:07+00:00,Apple mock event 90-3,Mock description for Apple event 3.,https://example.com/apple/89/2,0.5442136097598432,analytical note
+2025-10-20 06:43:07+00:00,Apple mock event 90-2,Mock description for Apple event 2.,https://example.com/apple/89/1,-0.06857970568184059,news

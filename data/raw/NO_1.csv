@@ -1,0 +1,6 @@
+date,news,description,url,score,type
+2024-09-08T06:16:13Z,10-K report summary,Mock 10-K narrative event.,https://example.com/10k,0.3539805030462143,10K
+2025-03-07T06:16:13Z,10-K report summary,Mock 10-K narrative event.,https://example.com/10k,-0.15229760730737027,10K
+2025-09-03T06:16:13Z,10-K report summary,Mock 10-K narrative event.,https://example.com/10k,0.2502000605305845,10K
+2026-03-02T06:16:13Z,10-K report summary,Mock 10-K narrative event.,https://example.com/10k,0.4295814795761075,10K
+2026-08-29T06:16:13Z,10-K report summary,Mock 10-K narrative event.,https://example.com/10k,0.25768308069367524,10K
