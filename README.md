@@ -13,11 +13,16 @@ scraped content. They ship with this snapshot so the demo runs and the GUI/forec
 something to show without any API keys.
 
 ## What this project does
+
+[View presentation](./reputation-analysis.pdf)
+
 - Collects events about a company (news, Reddit, analyst insights, stock news).
 - Computes a sentiment-based reputation score per event.
 - Produces merged events CSV + stock prices CSV.
 - Provides a Flet UI (`python -m app.ui`) and a CLI (`python -m app ...`).
 - Builds a weekly ARIMA forecast (`app/forecasting/forecast.py`) and saves the plot in `assets/`.
+
+[Pipeline map](./pipeline-map.html)
 
 ## Setup
 
